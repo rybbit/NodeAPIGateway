@@ -1,0 +1,8 @@
+{
+  "applicationName":"Node Express API Proxy",
+  "wwwPath":".\\..\\www\\",
+  "port": "8002",
+  "usersAPIendpoint": "http://jsonplaceholder.typicode.com",
+  "baseAPIendpoint": "http://jsonplaceholder.typicode.com",
+  "staticResourceURL": "https://www.google.com//images/branding/googlelogo/2x/"
+}
